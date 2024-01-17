@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\bin\Debug\net6.0\Gym.Business.deps.json
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\bin\Debug\net6.0\Gym.Business.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\bin\Debug\net6.0\Gym.Business.pdb
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\refint\Gym.Business.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.pdb
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\ref\Gym.Business.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\bin\Debug\net6.0\Gym.Core.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\bin\Debug\net6.0\Gym.Data.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\bin\Debug\net6.0\Gym.Data.pdb
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\bin\Debug\net6.0\Gym.Core.pdb
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Business\obj\Debug\net6.0\Gym.Business.csproj.CopyComplete

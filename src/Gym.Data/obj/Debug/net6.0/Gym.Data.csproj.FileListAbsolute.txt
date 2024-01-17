@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\bin\Debug\net6.0\Gym.Data.deps.json
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\bin\Debug\net6.0\Gym.Data.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\bin\Debug\net6.0\Gym.Data.pdb
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\refint\Gym.Data.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.pdb
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\ref\Gym.Data.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\bin\Debug\net6.0\Gym.Core.dll
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\bin\Debug\net6.0\Gym.Core.pdb
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Examnew\GYM\src\Gym.Data\obj\Debug\net6.0\Gym.Data.csproj.CopyComplete
